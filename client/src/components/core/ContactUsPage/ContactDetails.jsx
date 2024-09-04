@@ -15,7 +15,7 @@ const contactDetails = [
     heading: "Visit us",
     description: "Come and say hello at our office HQ.",
     details:
-      "Gandhi Nagar Subham Apartments, Bangalore-895212",
+      "Jodhpur Rajasthan - 342011",
   },
   {
     icon: "IoCall",
