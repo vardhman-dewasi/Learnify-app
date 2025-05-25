@@ -1,6 +1,6 @@
 # Learnify Online Education Platform (MERN App) [Website Link](https://learnify-app-alpha.vercel.app/)
 
-![Main Page](images/home.png)
+![Main Page](imagess/home.png)
 
 ## Project Description
 
@@ -69,7 +69,7 @@ relevant information related to the platform.
 Here is a high-level diagram that illustrates the architecture of the Learnify ed-tech
 platform:
 
-![Architecture](images/architecture.png)
+![Architecture](imagess/architecture.png)
 
 ## Front End
 
