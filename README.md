@@ -119,7 +119,7 @@ library for React.
 ## Back End
 
 Description of the Back-end Architecture: 
-Learnify nolithic architecture, with the backend built using Node.js and
+Learnify monolithic architecture, with the backend built using Node.js and
 Express.js, and MongoDB as the primary database. 
 
 Features and Functionalities of the Back-end: 
