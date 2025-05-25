@@ -1,6 +1,6 @@
 # Learnify Online Education Platform (MERN App) [Website Link](https://learnify-app-alpha.vercel.app/)
 
-![Main Page](home-image.png)
+![Main Page](images/home.png)
 
 ## Project Description
 
